@@ -1,3 +1,6 @@
+// Do we make up what each letter is like a =1, b=2 kind of thing? 
+// and if so, is that all we really need to do to spice this up? make sure every letter and number and expression can be put together and/or utilized 
+
 /**
  * This the example lexical analyzer code in pages 173 - 177 of the
  * textbook,
